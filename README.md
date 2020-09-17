@@ -1,6 +1,6 @@
 # Rhodolith-Cryptofauna
 
-This repository contains data used in Méndez Trejo et al.: Cryptofauna associated with rhodoliths: diversity is species-specific and influenced by habitat.
+This repository contains data used in Méndez Trejo et al. Cryptofauna associated with rhodoliths: diversity is species-specific and influenced by habitat.
 
 Data are separated into three spreadsheets each with a corresponding R script, outlined below.
 
