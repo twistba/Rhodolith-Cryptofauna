@@ -50,5 +50,5 @@ site_species= combined site species variable
 transect= transect ID at which the sample was taken
 rhodolith_number= unique rhodolith number for a given transect
 
-Amphithoidae:Trichomusculus= Names of cryptofauna and there assosiated abundances
+Amphithoidae:Trichomusculus= Names of cryptofauna and thier assosiated abundances
 
